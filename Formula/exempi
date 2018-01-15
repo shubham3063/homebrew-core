@@ -1,4 +1,4 @@
-class Drip < Formula
+mclass Drip < Formula
   desc "JVM launching without the hassle of persistent JVMs"
   homepage "https://github.com/flatland/drip"
   url "https://github.com/flatland/drip/archive/0.2.4.tar.gz"
